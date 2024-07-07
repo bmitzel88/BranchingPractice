@@ -34,7 +34,7 @@
             // 
             // btnDisplayGreeting
             // 
-            btnDisplayGreeting.Location = new Point(268, 126);
+            btnDisplayGreeting.Location = new Point(39, 98);
             btnDisplayGreeting.Name = "btnDisplayGreeting";
             btnDisplayGreeting.Size = new Size(103, 23);
             btnDisplayGreeting.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // txtName
             // 
-            txtName.Location = new Point(145, 126);
+            txtName.Location = new Point(39, 57);
             txtName.Name = "txtName";
             txtName.Size = new Size(100, 23);
             txtName.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(179, 166);
             Controls.Add(txtName);
             Controls.Add(btnDisplayGreeting);
             Name = "Form1";
